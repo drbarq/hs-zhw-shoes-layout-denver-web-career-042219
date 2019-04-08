@@ -24,8 +24,35 @@
 
 /* Positioning Classes */
 
+.col_1 {
+  /*span one-third */
+  float: left;
+  width: 32%;
+}
 
-h2.milk_text {
-  padding: 10px 0px 0px 5px;
-  position: relative;
+.col_2 {
+  /*span two-thirds */
+  float: left;
+  width: 66%;
+  margin-right: 2%
+}
+
+.col_3 {
+  /*span the entire width*/\
+}
+
+[class*="col_"] {
+  margin-left: 2%;
+}
+
+.first {
+  margin-left: 0;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+.archive {
+  height: 584px;
 }
