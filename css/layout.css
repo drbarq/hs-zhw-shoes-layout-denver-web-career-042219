@@ -53,6 +53,7 @@ section {
   margin-bottom: 20px;
 }
 
+/* I dont love this, I imagine there is a way to scale this automatically but couldn't figure it out */ 
 .archive {
   height: 584px;
 }
