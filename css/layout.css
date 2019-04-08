@@ -25,3 +25,7 @@
 /* Positioning Classes */
 
 
+h2.milk_text {
+  padding: 10px 0px 0px 5px;
+  position: relative;
+}
